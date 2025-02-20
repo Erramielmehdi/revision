@@ -10,7 +10,7 @@ public class principale {
 		System.out.println("Etat apres avancer     : "+r1);
 		r1.reculer(1);
 		System.out.println("Etat apres reculer     : "+r1);
-		System.out.println("fin");
+		System.out.println("and");
 
 	}
 
